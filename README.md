@@ -1,5 +1,5 @@
-## Kgau-Portfolio
-# Within this repository resides my portfolio/website.
+# Kgau-Portfolio
+## Within this repository resides my portfolio/website.
 
 
 
