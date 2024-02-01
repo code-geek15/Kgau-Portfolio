@@ -1,2 +1,6 @@
-# Kgau-Portfolio
-Here is where I saved my portfolio/website.
+## Kgau-Portfolio
+#Within this repository resides my portfolio/website.
+
+
+
+
